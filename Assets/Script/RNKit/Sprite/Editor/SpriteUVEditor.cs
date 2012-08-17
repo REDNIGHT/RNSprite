@@ -1,5 +1,5 @@
 // Copyright (c) 2012 Xilin Chi (RN)
-// Please direct any bugs/comments/suggestions to http://blog.sina.com.cn/u/2840185437
+// Please direct any bugs/comments/suggestions to http://rnsprite.blogspot.com/
 
 using UnityEngine;
 using UnityEditor;

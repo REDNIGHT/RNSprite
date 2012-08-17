@@ -1,3 +1,6 @@
+// Copyright (c) 2012 Xilin Chen (RN)
+// Please direct any bugs/comments/suggestions to http://www.blogger.com/profile/04078856863398606871
+
 using UnityEngine;
 using UnityEditor;
 

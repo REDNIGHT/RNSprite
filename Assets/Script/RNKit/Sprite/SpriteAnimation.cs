@@ -1,5 +1,5 @@
 ﻿// Copyright (c) 2012 Xilin Chen (RN)
-// Please direct any bugs/comments/suggestions to http://blog.sina.com.cn/u/2840185437
+// Please direct any bugs/comments/suggestions to http://rnsprite.blogspot.com/
 
 using UnityEngine;
 using System.Collections.Generic;
@@ -188,7 +188,8 @@ public class SpriteAnimation : MonoBehaviour
                 transform.RotateAround(transform.right, Random.Range(0, 360));
                 break;
             default:
-                throw new System.Exception();
+                Debug.LogError("", this);
+                break;
         }
     }
 
